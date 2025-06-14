@@ -1,0 +1,7 @@
+# Ignore data and system files
+*.csv
+*.ipynb_checkpoints
+.DS_Store
+__pycache__/
+.env
+*.pkl
